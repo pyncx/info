@@ -6,7 +6,8 @@
 3. Rudy Lab Methodology and C++ Codes: http://rudylab.wustl.edu/research/cell/methodology/index.html
 
 
-
+### FDA/CiPA
+1. Modal github: https://www.mathworks.com/help/matlab/ref/ode23s.html
 ### Matlab:
 1. Matlab ODE23: https://www.mathworks.com/help/matlab/ref/ode23s.html
 ### Python
