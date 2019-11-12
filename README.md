@@ -4,6 +4,12 @@
 1. ElectroPhysiology Model Collection: https://models.physiomeproject.org/electrophysiology
 2. O'Hara-Rudy CiPA v1.0 (2017): https://models.physiomeproject.org/e/5a0/ohara_rudy_cipa_v1_2017.cellml/view
 3. Rudy Lab Methodology and C++ Codes: http://rudylab.wustl.edu/research/cell/methodology/index.html
+4. Ikr model Rudy Paper: https://academic.oup.com/cardiovascres/article/50/2/301/274080
+5. Ikr model Rudy lab website: http://rudylab.wustl.edu/research/cell/methodology/markov/ikr.htm  + http://rudylab.wustl.edu/research/cell/methodology/markov/IKHTML/IKrmodel.htm
+
+
+### Essays:
+1. Mathematical Matters of Heart: https://mirams.wordpress.com/2019/09/30/hodgkin-huxley-and-markov/
 
 
 ### FDA/CiPA
