@@ -13,3 +13,4 @@
 ### Python
 1. scipy.integrate.ode : https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.integrate.ode.html
 2. Scipy Cookbook: https://scipy-cookbook.readthedocs.io/items/idx_ordinary_differential_equations.html
+3. ODE samples: https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations
