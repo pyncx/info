@@ -6,6 +6,7 @@
 3. Rudy Lab Methodology and C++ Codes: http://rudylab.wustl.edu/research/cell/methodology/index.html
 4. Ikr model Rudy Paper: https://academic.oup.com/cardiovascres/article/50/2/301/274080
 5. Ikr model Rudy lab website: http://rudylab.wustl.edu/research/cell/methodology/markov/ikr.htm  + http://rudylab.wustl.edu/research/cell/methodology/markov/IKHTML/IKrmodel.htm
+6. 
 
 
 ### Essays:
